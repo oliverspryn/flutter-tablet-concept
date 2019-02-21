@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_tablet_concept/ui/RandomWords.dart';
+import 'package:flutter_tablet_concept/ui/main_screen.dart';
 
 class TabletConceptApp extends StatelessWidget {
   @override
@@ -17,7 +17,7 @@ class TabletConceptApp extends StatelessWidget {
         primaryColor: Colors.white,
         primaryColorDark: Colors.white,
       ),
-      home: new RandomWords(),
+      home: new MainScreen(),
     );
   }
 }

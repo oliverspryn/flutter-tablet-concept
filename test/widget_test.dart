@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tablet_concept/TabletConceptApp.dart';
+import 'package:flutter_tablet_concept/tablet_concept_app.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
